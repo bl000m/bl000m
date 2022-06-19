@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mathia</h1>
-<h3 align="center">A fullstack stack developer from Lyon</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I am a fullstack developer with 15 years of experience as a project manager in Web and Data Innovation, Art and Design.
+I’m trilingual (French, English, Italian).
+I’m from Milan, living in Lyon.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
