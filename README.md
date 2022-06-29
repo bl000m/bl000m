@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="left">I am a fullstack developer with 15 years of experience as a project manager in Web and Data Innovation, Art and Design.
-I’m trilingual (French, English, Italian).
+<h3 align="left">At the end of 2021 I switched career from Project Management to Fullstack Developpement. I am a fast and autonomous learner, eager to progress within an inspiring team as a trilingual (French, English, Italian) junior fullstack developer. My past 15 years experiences as a project and digital manager have proven helpful to approach code with a product-oriented mindset, taking into account business and organizational goals.
+After Le Wagon's bootcamp, where I dove deep into Ruby on Rails, JS, SQL, Git, GIthub and the API REST Protocols, I'm now studying in depth Python and React.
 I’m from Milan, living in Lyon.</h3>
 
 <h3 align="left">Connect with me:</h3>
