@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="left"></h3>
+# Hi, I'm Mathia 👋
+
+## 👨🏻‍💻 &nbsp;About Me
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## Find me around the web 🌎 
 <p align="left">
