@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="left"></h3>
 
-<h3 align="left">Connect with me:</h3>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/mathiapagani/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Struggling on <a href="https://www.leetcode.com/mpagani/">LeetCode</a> 
+
 <p align="left">
 <a href="https://linkedin.com/in/mathiapagani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathiapagani" height="30" width="40" /></a>
 </p>
