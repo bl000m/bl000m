@@ -1,6 +1,6 @@
 # Hi, I'm Mathia, from <a href="https://42.fr/en/homepage/">42 Lyon</a>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh6naphv001108jltbcnlcyi/stats?cursusId=21&coalitionId=304" alt="mpagani's 42 stats" /></a>
+<a href=""><img src="https://badge42.vercel.app/api/v2/clh6naphv001108jltbcnlcyi/stats?cursusId=21&coalitionId=304" alt="mpagani's 42 stats" /></a>
 
 <p align="left">
 <a href="https://www.leetcode.com/mpagani/">LeetCode</a> <a href="https://linkedin.com/in/mathiapagani" target="blank">Linkedin</a> 
