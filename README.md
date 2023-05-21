@@ -1,5 +1,5 @@
 ## <p style="text-align: center;">Hi 👋, I'm Mathia
-### <p style="text-align: center;">**A passionate developer studying at 42 School in Lyon.**
+<p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 Passionate coder at 42 School, in a perpetual pursuit of improvement.</span></strong></em></p>
 
 ## 🌟 About Me:<br>
  
