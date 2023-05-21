@@ -13,9 +13,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fabien-herraud-979b25108/](https://linkedin.com/in/mathiapagani)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20221734/bl000m) [![LeetCode](https://img.shields.io/badge/LeetCode-*-green)](https://www.leetcode.com/mpagani/) 
-<p align="left">
-<a href="https://www.leetcode.com/mpagani/">LeetCode</a> <a href="https://linkedin.com/in/mathiapagani" target="blank">Linkedin</a> 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="nodejs" width="40" height="40"/> </a>
