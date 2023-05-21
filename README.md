@@ -3,12 +3,11 @@
 
 ## 💫 About Me:
  
-💡 Passionate about coding, I made the decision to become a developer after the pandemic.
-🌟 After successfully integrating École 42 in November 2022, I tool a gap year to fill my programming knowledge gaps, honing my skills and preparing for future challenges.
-🔭Currently working on the final projects of the common core, diving deep into Docker, IRC protocol, NestJS, and TypeScript. ⏳ Scheduled to finish by the end of August 2023
-💼 Eagerly preparing to embark on a professional journey in September 2023
-💡 Passionate about digital art, I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.
-
+💡 Passionate about coding, I made the decision to become a developer after the pandemic.<br>
+🌟 After successfully integrating École 42 in November 2022, I tool a gap year to fill my programming knowledge gaps, honing my skills and preparing for future challenges<br>
+🔭Currently working on the final projects of the common core, diving deep into Docker, IRC protocol, NestJS, and TypeScript. ⏳ Scheduled to finish by the end of August 2023<br>
+💼 Eagerly preparing to embark on a professional journey in September 2023<br><br>
+💡 Passionate about digital art, I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.<br><br>
 💪 I'm an avid runner and passionate about tai chi. I love exploring the harmony between nature and the digital world, constantly seeking new ways to blend the two.
  
 <p align="left">
