@@ -1,5 +1,13 @@
-# Hi, I'm Mathia, from <a href="https://42.fr/en/homepage/">42 Lyon</a>
+# <p style="text-align: center;">Hi 👋, I'm Mathia
+### <p style="text-align: center;">**A passionate developer studying at 42 School in Lyon.**
 
+# 💫 About Me:
+🔭I'm currently working on the final projects of the common core, diving deep into Docker, IRC protocol, NestJS, and TypeScript. Expected to complete it by September 2023.
+
+💡 Passionate about digital art, I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.
+
+💪 I'm an avid runner and passionate about tai chi. I love exploring the harmony between nature and the digital world, constantly seeking new ways to blend the two.
+ 
 <p align="left">
 <a href="https://www.leetcode.com/mpagani/">LeetCode</a> <a href="https://linkedin.com/in/mathiapagani" target="blank">Linkedin</a> 
 </p>
