@@ -1,9 +1,12 @@
-# <p style="text-align: center;">Hi 👋, I'm Mathia
+## <p style="text-align: center;">Hi 👋, I'm Mathia
 ### <p style="text-align: center;">**A passionate developer studying at 42 School in Lyon.**
 
-# 💫 About Me:
-🔭I'm currently working on the final projects of the common core, diving deep into Docker, IRC protocol, NestJS, and TypeScript. Expected to complete it by September 2023.
-
+## 💫 About Me:
+ 
+💡 Passionate about coding, I made the decision to become a developer after the pandemic.
+🌟 After successfully integrating École 42 in November 2022, I tool a gap year to fill my programming knowledge gaps, honing my skills and preparing for future challenges.
+🔭Currently working on the final projects of the common core, diving deep into Docker, IRC protocol, NestJS, and TypeScript. ⏳ Scheduled to finish by the end of August 2023
+💼 Eagerly preparing to embark on a professional journey in September 2023
 💡 Passionate about digital art, I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.
 
 💪 I'm an avid runner and passionate about tai chi. I love exploring the harmony between nature and the digital world, constantly seeking new ways to blend the two.
