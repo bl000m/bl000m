@@ -10,7 +10,7 @@
 ⏳ Scheduled to finish by the end of August 2023<br><br>
 💼 Eagerly preparing to embark on a professional journey in September 2023<br><br>
 💡 Passionate about digital art, I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.<br><br>
-💪 I'm an avid runner and passionate about tai chi. I love exploring the harmony between nature and the digital world, constantly seeking new ways to blend the two.<br><br>
+💪 I'm an avid runner and passionate about tai chi. <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fabien-herraud-979b25108/](https://linkedin.com/in/mathiapagani)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20221734/bl000m) [![LeetCode](https://img.shields.io/badge/LeetCode-*-green)](https://www.leetcode.com/mpagani/) 
