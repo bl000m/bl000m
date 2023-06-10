@@ -13,7 +13,7 @@
 💪 I'm an avid runner and passionate about tai chi. <br><br>
 
 ## 🌐 Get in Touch<br>
-📫 If you have any questions, suggestions, or collaboration ideas, I would love to hear from you! Feel free to reach out to me and let's connect.
+📫 If you have any questions, suggestions, or collaboration ideas, I would love to hear from you! Feel free to reach out to me and let's connect.<br><br>
 
 ## ✨ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mathiapagani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20221734/bl000m) [![LeetCode](https://img.shields.io/badge/LeetCode-*-green)](https://www.leetcode.com/mpagani/) 
