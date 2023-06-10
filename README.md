@@ -1,5 +1,5 @@
-## <p style="text-align: center;">Hi 👋, I'm Mathia
-<p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 Passionate coder at 42 School, in a perpetual pursuit of improvement.</span></strong></em></p><br>
+## <p style="text-align: center;">👋 Hello there! 
+<p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 I'm Mathia, a passionate coder at 42 School,  on a never-ending quest for self-improvement. Welcome to my GitHub repository!</span></strong></em></p><br>
 
 ## 🌟 About Me:<br>
  
@@ -11,6 +11,9 @@
 💼 Eagerly preparing to embark on a professional journey in September 2023<br><br>
 💡 Passionate about digital art, I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.<br><br>
 💪 I'm an avid runner and passionate about tai chi. <br><br>
+
+## 🌐 Get in Touch<br>
+📫 If you have any questions, suggestions, or collaboration ideas, I would love to hear from you! Feel free to reach out to me and let's connect.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mathiapagani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20221734/bl000m) [![LeetCode](https://img.shields.io/badge/LeetCode-*-green)](https://www.leetcode.com/mpagani/) 
