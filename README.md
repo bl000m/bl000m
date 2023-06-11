@@ -1,5 +1,5 @@
 ## <p style="text-align: center;">👋 Hello there! 
-<p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 I'm Mathia, a passionate coder at 42 School,  on a never-ending quest for self-improvement. Welcome to my GitHub repository!</span></strong></em></p><br>
+<p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 I'm Mathia, a passionate coder at 42 School</span></strong></em></p><br>
 
 ## 🌟 About Me:<br>
  
