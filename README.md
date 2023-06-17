@@ -1,5 +1,5 @@
-## <p style="text-align: center;">👋 Hello there! 
-<p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 I'm Mathia, from 42 School</span></strong></em></p><br>
+## <p style="text-align: center;">👋 Hello I'm Mathia! 
+<p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 from 42 Lyon</span></strong></em></p><br>
 
 ## 🌟 About Me:<br>
  
