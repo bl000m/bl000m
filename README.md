@@ -3,7 +3,6 @@
 
 ## 🌟 About Me:<br>
  
-💡 Passionate about coding, I made the decision to become a developer after the pandemic.<br><br>
 🚀 Bootcamp graduate of The Wagon in April 2022 💻, diving deep into Ruby as a freelance developer.<br><br>
 🌟 After successfully integrating École 42 in November 2022, I took a gap year to fill my programming knowledge gaps, honing my skills and preparing for future challenges<br><br>
 🔭Currently working on the final projects of the common core, diving deep into Docker, IRC protocol, NestJS, and TypeScript<br><br>
