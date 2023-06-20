@@ -4,7 +4,7 @@
 ## 🌟 About Me:<br>
  
 🚀 Bootcamp graduate of The Wagon in April 2022 💻, diving deep into Ruby as a freelance developer.<br><br>
-🌟 After successfully integrating École 42 in November 2022, I took a gap year to fill my programming knowledge gaps, honing my skills and preparing for future challenges<br><br>
+🌟 After successfully integrating École 42 in September 2022, I took a gap year to fill my programming knowledge gaps, honing my skills and preparing for future challenges<br><br>
 🔭Currently working on the final projects of the common core, diving deep into Docker, IRC protocol, NestJS, and TypeScript<br><br>
 ⏳ Scheduled to finish by the end of August 2023<br><br>
 💼 Eagerly preparing to embark on a professional journey in September 2023<br><br>
