@@ -1,15 +1,11 @@
 ## <p style="text-align: center;">👋 Hello, I'm Mathia! 
-<p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 from 42 Lyon</span></strong></em></p><br>
+<p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 from CNRS - cc IN2P3 - Lyon</span></strong></em></p><br>
 
 ## 🌟 About Me:<br>
  
-🚀 Bootcamp graduate of The Wagon in April 2022 💻, diving deep into Ruby as a freelance developer.<br><br>
-🌟 After successfully integrating École 42 in November 2022 I took a gap year to fill my programming knowledge gaps, honing my skills and preparing for future challenges<br><br>
-🔭Currently working on the final projects of the common core, diving deep into Docker, IRC protocol, NestJS, and TypeScript<br><br>
-⏳ Scheduled to finish by the end of August 2023<br><br>
-💼 Eagerly preparing to embark on a professional journey in September 2023<br><br>
 💡 Passionate about digital art, I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.<br><br>
 💪 I'm an avid runner and passionate about tai chi. <br><br>
+🚀 42 School<br><br>
 
 ## 🌐 Get in Touch<br>
 📫 If you have any questions, suggestions, or collaboration ideas, I would love to hear from you! Feel free to reach out to me and let's connect.<br><br>
