@@ -1,4 +1,4 @@
-## <p style="text-align: center;">👋 Hello I'm Mathia! 
+## <p style="text-align: center;">👋 Hello, I'm Mathia! 
 <p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 Software developer at CNRS - cc IN2P3 - Lyon</span></strong></em></p><br>
 
 ## 🌟 About Me:<br>
