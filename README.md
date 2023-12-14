@@ -4,7 +4,7 @@
 ## 🌟 About Me:<br>
  
 💡 Passionate about digital art, I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.<br><br>
-💪 I'm an avid runner and passionate about tai chi. <br><br>
+💪 I'm an avid runner and passionate about Aïkido and Tai chi. <br><br>
 🚀 42 School<br><br>
 
 ## 🌐 Get in Touch<br>
