@@ -1,14 +1,10 @@
-## <p style="text-align: center;">👋 Hello, I'm Mathia! 
+## <p style="text-align: center;">👋
 <p style="text-align: center;"><em><strong><span style="color:#ff0000;">💡 Software developer at CNRS - cc IN2P3 - Lyon</span></strong></em></p><br>
 
 ## 🌟 About Me:<br>
  
-💡 Passionate about digital art, I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.<br><br>
-💪 I'm an avid runner and passionate about Aïkido and Tai chi. <br><br>
+💡 I strive for clean and responsible code. I enjoy working on product-oriented and organic projects that positively impact teams. I find beauty in the intersection of nature and technology.<br><br>
 🚀 42 School<br><br>
-
-## 🌐 Get in Touch<br>
-📫 If you have any questions, suggestions, or collaboration ideas, I would love to hear from you! Feel free to reach out to me and let's connect.<br><br>
 
 ## ✨ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mathiapagani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20221734/bl000m) [![LeetCode](https://img.shields.io/badge/LeetCode-*-green)](https://www.leetcode.com/mpagani/) 
